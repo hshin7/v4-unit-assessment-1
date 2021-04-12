@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+
+figure img{
+    height: 30px;
+    width: 40px;
+    
+}
+
+
+.head{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 30px;
+    padding:30px;
+    text-align: left;
+   
+}
+
+
+.top{
+    border: dashed;
+    padding: 30px;
+    margin: 0;
+    height: 300px;
+    box-sizing: border-box;
+}
+
+
+.rectangle-1{
+    background: indigo;
+    border: solid 4px red;
+    height: 120px;
+    width: 210px;
+    display: inline-block;
+    padding-left: 30px;
+   
+}
+
+.rectangle-2{
+    background: blue;
+    border: solid 2px black;
+    display: inline-block;
+    height: 124px;
+    width: 120px;
+    margin: 0 25px;
+
+}
+
+
+.boxShadow{
+    height: 124px;
+    width: 100%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgbba(0,0,0,0.75);
+}
+
+.rectangle-3{
+    background-color: palevioletred;
+    border: solid 2px black;
+    display: inline-block;
+    height: 248px;
+    width: 250px;
+
+
+}
+
+.middle{
+    border: dashed;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+.circle-1{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    border: solid 1px black;
+    display: block;
+}
+
+.circle-2{
+    border-radius: 50%;
+    border: solid 1px black;
+    height: 150px;
+    width: 150px;
+    display: block;
+
+}
+
+.circle-3{
+    border-radius: 50%;
+    border: solid 1px black;
+    height: 180px;
+    width: 180px;
+    display: 
+}
+
+.bottom{
+    border: dashed;
+    padding: 10px;
+    height: 250px;
+    
+
+}
+
+.box-1{
+    background-color: lightyellow;
+    border: solid 1px black;
+    height: 250px;
+    width: 250px;
+}
+
+.circle-4{
+    background-color: forestgreen;
+    border: solid 1px black;
+    border-radius: 50%;
+    height: 205px;
+    width: 205px;
+}
+
+.box-2{
+    background-color: brown;
+    height: 120px;
+    width: 120px;
+}
+
+.fishtank{
+    color: white;
+}
+
+.circle-5{
+    background-color: blue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
